@@ -1,0 +1,1 @@
+<img src="{{asset('logo/ha.jpg')}}" width="100px">
